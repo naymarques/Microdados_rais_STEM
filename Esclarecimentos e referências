@@ -1,0 +1,20 @@
+Antes de tudo, gostaria de esclarecer que, apesar da vontade, a falta de tempo não me deixa "estudar a linguagem R". 
+Ou seja, esse trabalho foi feito com base em muita pesquisa direcionada a microdados e R, mas sem o conhecimento da linguagem nem das melhores práticas.
+Meu objetivo de publicar esse trabalho aqui é, inclusive, melhorar essa parte.
+
+Para chegar no no código usei como referência as ideias e os códigos de algumas pessoas aqui do GitHub.
+
+São eles:
+Myke Nogueira:
+https://github.com/MykeNogueira/insercao-sociologos/blob/main/README.md
+
+Lucas Mation:
+https://github.com/lucasmation/microdadosBrasil
+
+Felipe Pureza
+https://github.com/felpureza/cafe_com_dados_rais
+
+Além das seguintes referências externas:
+
+R-ladies São Paulo, os vídeos no youtube foram muito importantes para aprender a tratar de microdados.
+Dados da "Base dos Dados" (https://basedosdados.org/) também foram muito importantes e me economizaram bastante tempo. Passei com muitas dificuldades para organizar os dados da Rais e pensei em desistir de usar dados reais e quase me apeguei a ideia de fazer apenas uma revisão teórica do tema, o que tiraria muito o "valor" da pesquisa. Encontrá-los organizados e disponíveis no BigQuery me deu um fôlego a mais para seguir com a pesquisa.
