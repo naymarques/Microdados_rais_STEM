@@ -135,7 +135,3 @@ cabecalho <- df.analise %>%
   filter(cbo_ajust == "a")
 write.csv(cabecalho, file = "cabecalho.csv")
 
-usethis::use_git()
-usethis::use_github()
-usethis::use_git_remote("origin", url = NULL, overwrite = TRUE)
-
