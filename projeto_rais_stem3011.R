@@ -13,7 +13,7 @@ library(tidyr)
 
 #autenticacao conta google bigquery
 
-bq_auth(path = "C:/Users/nay_o/OneDrive/Documentos/R/microdados-rais-stem-fields-8e6f69d67f6f.json")
+bq_auth(path = "C:/Users/nay_o/OneDrive/Documentos/R/"chave_json_do_google_biquery.json")
 
 # criar conexão com o BigQuery basedosdados
 con <- dbConnect(
