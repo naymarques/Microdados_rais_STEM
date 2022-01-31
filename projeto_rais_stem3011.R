@@ -11,9 +11,9 @@ library(dplyr)
 library(webshot)
 library(tidyr)
 
-#autenticacao conta google bigquery
+#autenticacao conta google bigquery - o programa não roda se vc não fizer o processo descrito no vídeo (https://www.youtube.com/watch?v=5_Ir8neyFf4&t=1409s)
 
-bq_auth(path = "C:/Users/nay_o/OneDrive/Documentos/R/"chave_json_do_google_biquery.json")
+bq_auth(path = "caminho_no_seu_computador/"chave_json_do_google_biquery.json")
 
 # criar conexão com o BigQuery basedosdados
 con <- dbConnect(
